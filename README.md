@@ -16,6 +16,8 @@
 
 ps：
 1.智慧树无法绑定的，暂时不用管
+
 2.没有考勤，不用去点平台的签到
+
 3.有需要办理免修的，[学校官网可以申请](http://ceis.cce.fudan.edu.cn/cce/login/student/main.jsp) 
 
