@@ -1,37 +1,21 @@
 # 21级软件工程专升本
 
-#### 介绍
-21级软件工程专升本
+2021/03/01 学期  本学期所有课程，网课形式
 
-#### 软件架构
-软件架构说明
+1.马克思主义基本原理概论
+地址：https://coursehome.zhihuishu.com/courseHome/2038787/11#onlineCourse
 
+2.计算机科学导论
+地址:https://fudanlearning.o-learn.cn/learning/index_fdjj.action
 
-#### 安装教程
+3.c++ 程序设计
+地址：https://fudanlearning.o-learn.cn/learning/index_fdjj.action
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+登录名：学号
+密码：Fddx2020
 
-#### 使用说明
+ps：
+1.智慧树无法绑定的，暂时不用管
+2.没有考勤，不用去点平台的签到
+3.有需要办理免修的，[学校官网可以申请](http://ceis.cce.fudan.edu.cn/cce/login/student/main.jsp) 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
