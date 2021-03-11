@@ -9,19 +9,24 @@
 1.马克思主义基本原理概论
 
 地址：https://coursehome.zhihuishu.com/courseHome/2038787/11#onlineCourse
+教课书： 马克思主义基本原理概论 书本编写组 高等教育出版社
 
 
 
 2.计算机科学导论
 
 地址:https://fudanlearning.o-learn.cn/learning/index_fdjj.action
-
+教课书： 计算机科学导论 瞿中，熊安萍，蒋溢 清华大学出版社
 
 
 3.c++ 程序设计
 
 地址：https://fudanlearning.o-learn.cn/learning/index_fdjj.action
+教课书： 	C++语言程序设计 郑莉，董江舟 清华大学出版社
 
+4.英语
+暂未开始
+教课书： 大学英语精读 1-3册 翟象俊 上海外语教育出版社
 
 
 登录名：学号
